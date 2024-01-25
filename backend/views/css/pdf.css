@@ -1,0 +1,53 @@
+#pdf {
+    position: relative;
+    margin: 20px auto;
+    height: auto;
+    text-align: center;
+    border: 2px dashed #ccc;
+    color: #999;
+    padding: 20px;
+}
+
+#pdf #pdfLibro {
+    position: relative;
+    margin: auto;
+    width: 200px;
+    height: auto;
+}
+
+/*===========================================*/
+#tituloLibro {
+    text-transform: uppercase;
+}
+#edicion {
+    text-transform: uppercase;
+}
+#editorial {
+    text-transform: uppercase;
+}
+#autor {
+    text-transform: uppercase;
+}
+#categoria {
+    text-transform: uppercase;
+}
+#nombres {
+    text-transform: uppercase;
+}
+#apellidos {
+    text-transform: uppercase;
+}
+#correo {
+    text-transform: lowercase;
+}
+
+
+
+
+
+
+
+
+/*===========================================*/
+
+
